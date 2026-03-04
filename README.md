@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) using SQL and Tableau
+# COVID‑19 Data Insights: Exploratory Analysis and Interactive Tableau Report
 
 ## 📌 Overview
 This project demonstrates end-to-end exploratory data analysis (EDA) using **SQL** for data cleaning and preprocessing, and **Tableau** for interactive visualization.  
